@@ -28,7 +28,7 @@ setting_pairs = [
 def export_results():
 
     styles = getSampleStyleSheet()
-    doc = SimpleDocTemplate("Appendix.pdf")
+    doc = SimpleDocTemplate("Appendix_A.pdf")
 
     story = []
 
